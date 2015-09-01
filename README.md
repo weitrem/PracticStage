@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Docster
 ![docster preview](https://raw.githubusercontent.com/DigitalMindCH/docster-jekyll-theme/gh-pages/img/docster_preview.jpg)
 
@@ -17,3 +18,6 @@ We don't believe in delivering Code without explanation. Especially not for a do
 ### Feedback, Wishes, Problems
 If you run into any trouble or have a request please do so by opening up an issue on the theme's GitHub page.
 If you just want to give us a general feedback feel free to [contact us!](http://digitalmind.ch/contact/)
+=======
+# Presentation
+>>>>>>> bda9e0390e5f38f7de724128e9d9e771a492e73d
